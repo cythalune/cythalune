@@ -14,7 +14,7 @@ I'm currently building my foundations in ML by studying the underlying mathemati
 
 ### Selected Projects
 
-* **[Linear Regression from Scratch](https://github.com/cythalune/linear-regression-from-scratch)** — Linear regression implemented with NumPy, including gradient descent, evaluation metrics and visualizations.
+* **[Linear Regression from Scratch](https://github.com/cythalune/gradient-descent-linear-regression)** — Linear regression implemented with NumPy, including gradient descent, evaluation metrics and visualizations.
 * **[Logistic Regression from Scratch](https://github.com/cythalune/logistic-regression-from-scratch)** — Binary classification implemented from scratch using NumPy, gradient descent and evaluation metrics.
 * **[Human or AI Web](https://github.com/cythalune/human-or-ai-web)** — A web project exploring whether text was written by a human or AI.
 
